@@ -3,7 +3,7 @@
   <title><![CDATA[Flincllck Site]]></title>
   <link href="http://flincllck.github.io/atom.xml" rel="self"/>
   <link href="http://flincllck.github.io"/>
-  <updated>2013-10-11T16:20:00.856Z</updated>
+  <updated>2013-10-11T16:26:58.786Z</updated>
   <id>http://flincllck.github.io/</id>
   <author>
     <name><![CDATA[flincllck]]></name>
@@ -15,7 +15,7 @@
     <link href="http://flincllck.github.io/2013/10/10/关于编程的杂谈/"/>
     <id>http://flincllck.github.io/2013/10/10/关于编程的杂谈/</id>
     <published>2013-10-10T11:48:34.000Z</published>
-    <updated>2013-10-11T16:02:19.000Z</updated>
+    <updated>2013-10-11T16:25:46.000Z</updated>
     <content type="html"><![CDATA[<p>能来到此页，说明你对编程应该是有一点点点点感兴趣的。</p>
 <p>很多同学不知道该怎么入手，于是就只好选择了在课堂上认真学习这条不归路.但以传统教育的方法来学习编程难度是非常大的，不亚于你在课堂上学了六七年的英语……</p>
 <h4>这篇文章的目的就在于给大家一个参考方向，至少能让你磕磕绊绊的前行。不保证这是条直道，不过至少不会偏离的太远：）</h4>
@@ -48,7 +48,7 @@
 <p>我们学校服务器上搭载了一个<a href="http://ncc.neuq.edu.cn/oj" target="_blank">OJ</a>: <a href="http://ncc.neuq.edu.cn/oj" target="_blank">http://ncc.neuq.edu.cn/oj</a><br>（Online Judge系统（简称OJ）是一个在线的判题系统，在你根据要求写出程序后，将代码提交到其中，它会帮你检验程序源代码的正确性）</p>
 <p>在写出程序后，我们可以看是否正确的，以及你的战绩统计。这是一个简单的激励系统，跟你砍完怪得到金币和装备是同样的道理。</p>
 <h4>大家可以向周围的人宣传下我们的这个oj，不限于计工院的学生。</h4>
-<p>我们接下来会组织一系列的编程竞争，一是为了促进大家的学习，同时也为各种大赛：蓝桥杯以及ACM ICPC培养选手</p>
+<p>我们接下来会组织一些的编程比赛，一是为了给大家学习的动力，同时也为各种大赛，蓝桥杯以及ACM ICPC做准备。</p>
 <p>最后分享一篇<a href="http://hi.baidu.com/nelstesfeibeiyq/item/fff7e42c40bd7d0877272c6a" target="_blank">《ACM有什么用》</a><strong>从“大学四年走到这里也快要画上一个句号了”这一段开始看</strong></p>
 <p>在写这篇的时候,我浏览了一下2013ACM-ICPC区域赛入围名额，发现五个赛区我们东大的总校一共也只入围了2名(我们目前是0），</p>
 <p>我有一个想法，在明年的ACM-ICPC我们至少在这个数据上超越他们，给他们一个下马威，觉得这个注意甚好的同学可以在下面留言。</p>
