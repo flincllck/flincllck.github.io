@@ -3,7 +3,7 @@
   <title><![CDATA[Flincllck Site]]></title>
   <link href="http://flincllck.github.io/atom.xml" rel="self"/>
   <link href="http://flincllck.github.io"/>
-  <updated>2013-11-17T07:03:46.617Z</updated>
+  <updated>2013-11-17T07:04:52.031Z</updated>
   <id>http://flincllck.github.io/</id>
   <author>
     <name><![CDATA[flincllck]]></name>
@@ -15,7 +15,7 @@
     <link href="http://flincllck.github.io/2013/11/17/第一届neuq-acm程序设计大赛(个人赛)比赛说明/"/>
     <id>http://flincllck.github.io/2013/11/17/第一届neuq-acm程序设计大赛(个人赛)比赛说明/</id>
     <published>2013-11-17T06:15:14.000Z</published>
-    <updated>2013-11-17T07:03:42.000Z</updated>
+    <updated>2013-11-17T07:04:38.000Z</updated>
     <content type="html"><![CDATA[<h1>第一届NEUQ ACM程序设计大赛（个人赛）</h1>
 <h3>比赛规则：</h3>
 <p>1.个人赛，不允许组队。严禁与别人讨论及抄袭；<br>2.比赛时间：12月8日9点-12点；<br>3.本次比赛使用Online Judge在线判题系统（<a href="http://ncc.neuq.edu.cn/oj/），参赛队员需报名并以学号在OJ上注册账号，工作人员会为账号添加比赛权限；" target="_blank">http://ncc.neuq.edu.cn/oj/），参赛队员需报名并以学号在OJ上注册账号，工作人员会为账号添加比赛权限；</a><br>4.支持C/C++和Java三种语言;<br>5.系统会根据每位参赛选手解题数目进行排名。若解题数量相同，则根据总用时进行排名。每道试题用时将从<strong>竞赛开始</strong>到试题解答被判定为正确为止，未正确解答的试题不计时。</p>
@@ -29,7 +29,7 @@
 <p>我们会在赛后5个工作日内公布获奖名单，获奖名单将公示在OJ首页及微信平台。</p>
 <p>协会工作人员联系方式：</p>
 ]]></content>
-    <category scheme="http://flincllck.github.io/tags/ACM| NEUQ/" term="ACM| NEUQ"/>
+    <category scheme="http://flincllck.github.io/tags/ACM NEUQ/" term="ACM NEUQ"/>
   </entry>
   <entry>
     <title type="html"><![CDATA[NEUQ ACM协会介绍及非技术岗位招干说明]]></title>
