@@ -3,7 +3,7 @@
   <title><![CDATA[Flincllck Site]]></title>
   <link href="http://flincllck.github.io/atom.xml" rel="self"/>
   <link href="http://flincllck.github.io"/>
-  <updated>2013-11-24T11:52:43.699Z</updated>
+  <updated>2013-11-24T13:20:11.169Z</updated>
   <id>http://flincllck.github.io/</id>
   <author>
     <name><![CDATA[flincllck]]></name>
@@ -12,8 +12,8 @@
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
     <title type="html"><![CDATA[参赛指南]]></title>
-    <link href="http://flincllck.github.io/2013/11/21/参赛指南/"/>
-    <id>http://flincllck.github.io/2013/11/21/参赛指南/</id>
+    <link href="http://flincllck.github.io/2013/11/21/Contest-Guide/"/>
+    <id>http://flincllck.github.io/2013/11/21/Contest-Guide/</id>
     <published>2013-11-21T06:26:34.000Z</published>
     <updated>2013-11-24T11:37:07.000Z</updated>
     <content type="html"><![CDATA[<p><img src="/images/neuqacm_program_contect.jpg" alt="neuqacm程序设计大赛"><br>零.<a href="http://ncc.neuq.edu.cn/oj/registerpage.php" target="_blank">以学号为用户名注册帐号</a></p>
@@ -48,8 +48,8 @@
   </entry>
   <entry>
     <title type="html"><![CDATA[第一届NEUQ ACM程序设计大赛（个人赛）比赛说明]]></title>
-    <link href="http://flincllck.github.io/2013/11/17/第一届neuq-acm程序设计大赛(个人赛)比赛说明/"/>
-    <id>http://flincllck.github.io/2013/11/17/第一届neuq-acm程序设计大赛(个人赛)比赛说明/</id>
+    <link href="http://flincllck.github.io/2013/11/17/The-First-NEUQACM-Programming-Contest(individual)-Rules/"/>
+    <id>http://flincllck.github.io/2013/11/17/The-First-NEUQACM-Programming-Contest(individual)-Rules/</id>
     <published>2013-11-17T06:15:14.000Z</published>
     <updated>2013-11-24T11:50:11.000Z</updated>
     <content type="html"><![CDATA[<p><img src="/images/neuqacm_program_contect.jpg" alt="neuqacm程序设计大赛"></p>
