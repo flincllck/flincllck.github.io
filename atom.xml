@@ -3,7 +3,7 @@
   <title><![CDATA[Flincllck Site]]></title>
   <link href="http://flincllck.github.io/atom.xml" rel="self"/>
   <link href="http://flincllck.github.io"/>
-  <updated>2014-01-02T10:19:05.996Z</updated>
+  <updated>2014-01-02T11:10:02.593Z</updated>
   <id>http://flincllck.github.io/</id>
   <author>
     <name><![CDATA[flincllck]]></name>
@@ -15,7 +15,7 @@
     <link href="http://flincllck.github.io/2014/01/02/6-million-logins-leaked/"/>
     <id>http://flincllck.github.io/2014/01/02/6-million-logins-leaked/</id>
     <published>2014-01-02T08:15:29.000Z</published>
-    <updated>2014-01-02T10:18:55.000Z</updated>
+    <updated>2014-01-02T11:09:50.000Z</updated>
     <content type="html"><![CDATA[<p>今天（1月2日）去蹭了通信的最后一节计算机导论课，王老师有提了几句当年CSDN数据库泄露的事情，排名前几位的密码是类似123456这种类型的。<br>当年那个库我也有下载过，拿来练手Shell 编程，所以对这个事件也是比较熟悉的，给大家稍详细的介绍一下。</p>
 <p>CSDN是中国最大的开发者技术社区。<br>2011年12月消息说有CSDN 600 余万个明文的注册邮箱帐号和密码被黑客公开，文件被疯传。</p>
 <p><img src="/images/201401/wf.jpg" alt="wf"></p>
@@ -47,7 +47,7 @@
 <p>图片<br><img src="/images/201401/c3.png" alt="cp3"></p>
 <p>图片<br><img src="/images/201401/c4.png" alt="cp4"></p>
 <p>大家看图，我就不评论了··</p>
-<p>欢迎关注我的<a href="http://weibo.com/qingxp9" target="_blank">微博</a>，内容关注网络安全。</p>
+<p>欢迎关注我的<a href="http://weibo.com/qingxp9" target="_blank">微博</a><a href="http://weibo.com/qingxp9，内容关注网络安全。" target="_blank">http://weibo.com/qingxp9，内容关注网络安全。</a></p>
 ]]></content>
     <category scheme="http://flincllck.github.io/tags/CSDN/" term="CSDN"/>
   </entry>
