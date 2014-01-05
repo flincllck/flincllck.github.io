@@ -3,7 +3,7 @@
   <title><![CDATA[Flincllck Site]]></title>
   <link href="http://flincllck.github.io/atom.xml" rel="self"/>
   <link href="http://flincllck.github.io"/>
-  <updated>2014-01-03T16:48:57.567Z</updated>
+  <updated>2014-01-05T09:44:16.227Z</updated>
   <id>http://flincllck.github.io/</id>
   <author>
     <name><![CDATA[flincllck]]></name>
@@ -11,11 +11,28 @@
   </author>
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
+    <title type="html"><![CDATA[微信答题系统]]></title>
+    <link href="http://flincllck.github.io/2014/01/05/wechat-answering-system/"/>
+    <id>http://flincllck.github.io/2014/01/05/wechat-answering-system/</id>
+    <published>2014-01-05T08:45:27.000Z</published>
+    <updated>2014-01-05T09:42:06.000Z</updated>
+    <content type="html"><![CDATA[<p>最近大一的要考计算机导论了，王老师给大家准备了可以在web上刷题的途径。<br>我觉得还是不够方便，能在手机上刷该多好。</p>
+<p>昨天花了点时间在SAE上搭了个利用微信公众号的答题系统。<br><a id="more"></a><br>系统本身不复杂，就是把excel题库导入数据库费了几个小时的时间，终于赶在凌晨3点正式上线了。</p>
+<p><img src="/images/201401/answersystem.jpg" alt="answersystem"></p>
+<p>能躺在床上刷题好像诱惑力挺大的。<br>微信后台看了下，有220个新关注，18000多条新信息。NUEQACM那个公众号弄了快3个月到现在才300多关注呢，看来推广方式可以再改变下。<br>PV正处于冲向2W的节奏。<br><img src="/images/201401/pv.jpg" alt="pv"></p>
+<p>做这么一个东西不为什么回报，能帮到大家我就非常开心了。</p>
+<p>看来这样一个手机端的答题系统在高校的需求其实是挺大的，所有专业都有一两门课程是需要练习大量选择题的，又比如英语四六级、计算机二级等等大家都需要练选择题。</p>
+<p>每年都有一批人去买真题也不太环保，做着也不太方便，我看下一步是不是把计算机二级的题加上，方便大家备战。</p>
+<p>我的微博<a href="http://weibo.com/qingxp9" target="_blank">http://weibo.com/qingxp9</a> 大家看网页最右边，点击一下就能关注我的微博了。<br>来扫一扫我的微信公众号吧（Flincllck）<br><img src="/images/201401/flincllcktalk.jpg" alt="flincllcktalk"></p>
+]]></content>
+    <category scheme="http://flincllck.github.io/tags/wechat/" term="wechat"/>
+  </entry>
+  <entry>
     <title type="html"><![CDATA[600万账号中最常用的密码是什么？]]></title>
     <link href="http://flincllck.github.io/2014/01/02/6-million-logins-leaked/"/>
     <id>http://flincllck.github.io/2014/01/02/6-million-logins-leaked/</id>
     <published>2014-01-02T08:15:29.000Z</published>
-    <updated>2014-01-02T12:53:23.000Z</updated>
+    <updated>2014-01-05T09:43:40.000Z</updated>
     <content type="html"><![CDATA[<p><strong>[导读]</strong>  2011年的CSDN泄露门轰动了整个互联网，不仅是因为密码数据库的泄露，更是因为它所带来的连锁反应，因为大部分人上网都用同一组账号密码。<br><a id="more"></a></p>
 <p>今天去蹭了通信的最后一节计算机导论课，王和兴老师提了几句当年CSDN数据库泄露的事情。<br>那个泄露的库我有下载过，是以前拿来练手Shell 编程，所以对这个事件也是比较熟悉的，给大家稍详细的介绍一下。</p>
 <p>CSDN是中国软件开发联盟（Chinese software develop net）的缩写，是中国最大的开发者技术社区。<br>它是集新闻、论坛、群组、Blog、文档、下载、读书、Tag、网摘、搜索、.NET、Java、游戏、视频、人才、外包、第二书店、《程序员》等多种项目于一体的大型综合性IT门户网站，有很强的专业性，其会员囊括了中国地区百分之九十以上的优秀程序员，在IT技术交流及其周边国内中是第一位的网站。</p>
@@ -57,6 +74,7 @@
 <p>欢迎关注我的<a href="http://weibo.com/qingxp9" target="_blank">微博</a><a href="http://weibo.com/qingxp9，内容关注网络安全。" target="_blank">http://weibo.com/qingxp9，内容关注网络安全。</a></p>
 ]]></content>
     <category scheme="http://flincllck.github.io/tags/CSDN/" term="CSDN"/>
+    <category scheme="http://flincllck.github.io/categories/hack/" term="hack"/>
   </entry>
   <entry>
     <title type="html"><![CDATA[ACM摄影摄像大赛]]></title>
